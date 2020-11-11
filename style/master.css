@@ -34,8 +34,8 @@ div.small-container {
   font-size: 15px;
   color: #241890;
   margin-top: 40px;
+  margin-right: 20px;
   font-family: 'Raleway', sans-serif;
-
 }
 
 body {
@@ -54,6 +54,7 @@ font-size: 18px;
 font-family:'Raleway', sans-serif;
 color: #FCEFDE;
 font-weight: 100;
+margin-left: 40px;
 }
 
 footer li{
@@ -63,8 +64,9 @@ footer li{
 }
 
 footer{
-  align-center
+  align-left
   margin-top: 50px;
+  margin-left: 20px;
 }
 
 card {
@@ -75,10 +77,14 @@ margin-top: 40px;
   font-weight: 500px;
   font-size: 10px;
 }
-
 .jumboheaderImg{
   background-image (url"../images/photo - me/Desktop HD.png");
   background-size: cover;
+  margin-left: 40px;
+}
+
+.jumbotron{
+ margin-left: 120px;
 }
 
 .navbar-nav > li{
@@ -87,7 +93,6 @@ margin-top: 40px;
 }
 
 .container social-network {
-
 }
 
 h2 {
